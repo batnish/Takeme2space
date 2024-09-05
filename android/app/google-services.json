@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60040423666",
+    "project_id": "welcome2space-ab022",
+    "storage_bucket": "welcome2space-ab022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60040423666:android:701c138a009d661f65886b",
+        "android_client_info": {
+          "package_name": "com.example.spacelogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ7yqm3xJ04rvAOCZHVBnFwVqu9u5pp2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
